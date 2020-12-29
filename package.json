@@ -1,7 +1,6 @@
 {
   "name": "wf.js",
-  "version": "0.0.0",
-  "description": "A simple Websocket forwarder.",
+  "version": "1.0.0",                                             "description": "A simple Websocket forwarder.",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,15 +8,13 @@
   "keywords": [],
   "author": "Yonle",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yonle/wsforwarder.git"
+  "repository": {                                                   "type": "git",
+    "url": "git+https://github.com/yonle/wf.js.git"
   },
   "bugs": {
-    "url": "https://github.com/yonle/wsforwarder/issues"
+    "url": "https://github.com/yonle/wf.js/issues"
   },
-  "homepage": "https://github.com/yonle/wsforwarder#readme",
+  "homepage": "https://github.com/yonle/wf.js#readme",
   "dependencies": {
     "ws": "*"
-  }
-}
+  }                                                             }
